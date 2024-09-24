@@ -1,0 +1,7 @@
+const pes = prompt ("tu IMC es")
+console.log(IMC)
+console.log(typeof IMC)
+const altura = prompt ("tu IMC es ")
+console.log(typeof )
+const  = parseInt (prompt ("c"))
+console.log (typeof )
